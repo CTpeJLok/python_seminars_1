@@ -1,0 +1,4 @@
+fname      	sname      	city       
+Ivan       	Petrov     	Moscow     
+Petr       	Ivanov     	Saratov    
+Vadim      	Vasilyev   	Vladivostok
